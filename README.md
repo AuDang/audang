@@ -1,6 +1,6 @@
 ## Hello World, my name is Austin
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vernfongchao.visitor-badge)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=audang.visitor-badge)
 
 
 ## Connect with me on:
