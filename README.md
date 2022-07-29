@@ -1,16 +1,26 @@
 <div align = 'center'>
    <h1>Hello World, Welcome to My Github</h1>
+
    ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=audang.visitor-badge)
+
 </div>
 
 
 
 
+
+
 ## Connect with me on:
+<div>
   <a href="https://www.linkedin.com/in/austin-dang-106834191/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    📫 Or to reach me at : audangdev@gmail.com
+    
+    - 📫 Or to reach me at : audangdev@gmail.com
+</div>
+   
+   
+   
    </div>
 
 
