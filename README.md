@@ -1,9 +1,9 @@
 <div align = 'center'>
-<h1>Hello World, Welcome to My Github</h1>
+   <h1>Hello World, Welcome to My Github</h1>
+   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=audang.visitor-badge)
 </div>
 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=audang.visitor-badge)
 
 
 ## Connect with me on:
