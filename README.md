@@ -7,8 +7,8 @@
   <a href="https://www.linkedin.com/in/austin-dang-106834191/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   - 📫 How to reach me: audangdev@gmail.com
-
+    📫 How to reach me: audangdev@gmail.com
+   </div>
 
 
 ## Languages and Tools
