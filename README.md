@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     
-    - 📫 Or to reach me at : audangdev@gmail.com
+   📫 Or to reach me at : audangdev@gmail.com
 </div>
    
    
