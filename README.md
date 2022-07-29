@@ -7,8 +7,8 @@
   <a href="https://www.linkedin.com/in/austin-dang-106834191/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   📫 How to reach me: audangdev@gmail.com
-</div>
+   - 📫 How to reach me: audangdev@gmail.com
+
 
 
 ## Languages and Tools
@@ -44,3 +44,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=audang&count_private=true&show_icons=true&theme=dark&background=000000"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=audang&show_icons=true&locale=en&layout=compact&theme=dark&background=000000"/>
 </p>
+
+
+
+
+
