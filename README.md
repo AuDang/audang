@@ -1,12 +1,13 @@
 ## Hello World, my name is Austin
 
-<p>I'm just a guy who likes to problem solve, design, and build things so he became a Software Engineer.</p>
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vernfongchao.visitor-badge)
+
 
 ## Connect with me on:
   <a href="https://www.linkedin.com/in/austin-dang-106834191/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   📫 Or reach me at: audangdev@gmail.com
+   📫 How to reach me: audangdev@gmail.com
 </div>
 
 
@@ -36,6 +37,10 @@
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=audang&theme=dark&background=000000)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=audang&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=audang)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=audang)](https://github.com/anuraghazra/github-readme-stats) -->
+<p align = "center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=audanng&count_private=true&show_icons=true&theme=dark&background=000000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=audang&show_icons=true&locale=en&layout=compact&theme=dark&background=000000"/>
+</p>
