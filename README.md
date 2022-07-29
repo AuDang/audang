@@ -41,6 +41,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=audang)](https://github.com/anuraghazra/github-readme-stats) -->
 <p align = "center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=audanng&count_private=true&show_icons=true&theme=dark&background=000000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=audang&count_private=true&show_icons=true&theme=dark&background=000000"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=audang&show_icons=true&locale=en&layout=compact&theme=dark&background=000000"/>
 </p>
