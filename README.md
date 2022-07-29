@@ -1,4 +1,7 @@
-## Hello World, my name is Austin
+<div align = 'center'>
+<h1>Hello World, Welcome to My Github</h1>
+</div>
+
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=audang.visitor-badge)
 
@@ -7,11 +10,11 @@
   <a href="https://www.linkedin.com/in/austin-dang-106834191/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    📫 How to reach me: audangdev@gmail.com
+    📫 Or to reach me at : audangdev@gmail.com
    </div>
 
 
-## Languages and Tools
+## About Me
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
